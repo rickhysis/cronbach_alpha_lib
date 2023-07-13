@@ -7,7 +7,7 @@ description = "Library for get cronbach alpha value to check your reliable quest
 readme = "README.md"
 repository = "https://github.com/rickhysis/cronbach_alpha_lib"
 license = "MIT"
-keywords = ["cronbach alpha", "reliable"]
+keywords = ["cronbach", "reliable"]
 categories = ["science","mathematics","statistics"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
